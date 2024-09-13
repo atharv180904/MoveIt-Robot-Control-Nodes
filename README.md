@@ -1,5 +1,3 @@
-# ROS2_Moveit2_PandaArm
-
 # MoveIt Robot Control Nodes
 
 This repository contains two ROS 2 nodes that demonstrate basic motion planning using MoveIt for controlling a robotic arm. The nodes are:
