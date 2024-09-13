@@ -119,16 +119,3 @@ Make sure to have a valid MoveIt configuration for your robot (like the `panda_a
 - **Planning Failures**: If the node fails to plan, ensure that your robot's environment and configuration are correct, and that there are no obstacles in the planning path.
 - **Execution Failures**: If the motion execution fails, double-check that the planned trajectory is valid and that the robot's controllers are properly configured.
 
-## Future Improvements
-
-- Add error handling and retry mechanisms for planning and execution failures.
-- Provide dynamic inputs for joint angles and end-effector poses instead of hardcoding values.
-- Expand support to more robot models by making the planning group configurable via ROS parameters.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README file should provide clear instructions on how to build, run, and understand the two nodes. Let me know if you'd like to add or change anything!
